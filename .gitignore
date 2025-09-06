@@ -112,3 +112,7 @@ dmypy.json
 data/*.gz
 *.pkl
 *.npy
+
+# Visualizations
+*.png
+*.jpg

@@ -42,6 +42,7 @@ pip install -r requirements.txt
 This will install:
 - NumPy: For numerical computations and array operations
 - pytest: For running unit tests
+- Matplotlib: For data visualization
 
 ### 4. Set Up Testing Framework
 This project uses pytest for unit testing. After installation, you can run tests with:
@@ -61,7 +62,7 @@ Add test files in the `tests/` directory as you implement features.
 ## Project Structure
 - `data/`: Data loading and preprocessing
 - `models/`: Neural network implementation
-- `utils/`: Helper functions (activations, losses)
+- `utils/`: Helper functions (activations, losses, visualization)
 - `scripts/`: Training and evaluation scripts
 - `tests/`: Unit tests
 
