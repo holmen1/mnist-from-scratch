@@ -109,6 +109,6 @@ dmypy.json
 .pyre/
 
 # Data files
-data/
+data/*.gz
 *.pkl
 *.npy
